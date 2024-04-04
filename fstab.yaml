@@ -1,4 +1,4 @@
 mountpoints:
   /: 
-    url: https://www.wefixyourproject.com/content-api
+    url: https://www.wefixyourproject.com/content-api/
     type: markup
